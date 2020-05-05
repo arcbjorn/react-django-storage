@@ -45,6 +45,5 @@ npm run dev
 App on the port:
 [http://127.0.0.1:8000/](http://127.0.0.1:8000/).
 
-API to populate DB:
-
+API to populate DB: 
 [http://127.0.0.1:8000/api/user](http://127.0.0.1:8000/api/user).
